@@ -1,9 +1,9 @@
-register-screen {
+.register-screen {
     width: 100%;
-    height: 100vh;
+    height: 100vh !important;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: center !important;
+    align-items: center !important;
   }
   
   .register-screen__form {

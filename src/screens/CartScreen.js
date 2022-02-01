@@ -1,6 +1,6 @@
 import "./CartScreen.css";
 import React from "react";
-import ReactDOM from "react-dom";
+//import ReactDOM from "react-dom";
 import { useEffect } from "react";
 import { useSelector, useDispatch } from "react-redux";
 import { Link } from "react-router-dom";
